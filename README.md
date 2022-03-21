@@ -11,6 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 # Header 1
 ## Header 2
 ### Header 3
